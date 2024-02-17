@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/nvim-neorg/lua-utils.nvim/compare/v1.0.0...v1.0.1) (2024-02-17)
+
+
+### Bug Fixes
+
+* rename src/ to lua/ ([41bbbab](https://github.com/nvim-neorg/lua-utils.nvim/commit/41bbbab272a0a1cc53e0c7bda0e8ffa1278c4858))
+
 ## 1.0.0 (2024-02-17)
 
 
