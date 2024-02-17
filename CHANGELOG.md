@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/nvim-neorg/lua-utils.nvim/compare/v1.0.1...v1.0.2) (2024-02-17)
+
+
+### Bug Fixes
+
+* add detailed description ([92f3d9c](https://github.com/nvim-neorg/lua-utils.nvim/commit/92f3d9cfb4502d30c7f1bd1e7e5354df90e2a5be))
+
 ## [1.0.1](https://github.com/nvim-neorg/lua-utils.nvim/compare/v1.0.0...v1.0.1) (2024-02-17)
 
 
