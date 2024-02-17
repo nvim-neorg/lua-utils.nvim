@@ -26,7 +26,7 @@ jobs:
           version: ${{ env.LUAROCKS_VERSION }}
           test_interpreters: null
           summary: "A set of utility functions for Neovim plugins."
-          detailed_summary: |
+          detailed_description: |
             This repository contains a small set of nicities for performing repetitive tasks within Neovim.
             This set may shrink further as the features are included in other, larger "utility kits".
 
